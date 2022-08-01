@@ -8,7 +8,7 @@ Yes, we are. We're keeping our organization **open-source project for everyone.*
   - **[C++](https://microsoft.com):** We are building software for everyone use in your own platform.
   - **[JavaScript](https://javascript.com/):** As we making scripts and software for PTTS.
   
- - **Programs and other softwares:** These are full list of all software worldwide.
+- **Programs and other softwares:** These are full list of all software worldwide.
   - **[protanki-server](https://github.com/Assasans/protanki-server):** A server software for ProTanki-Online in kotlin.
   - **[Visual Studio Code](https://code.visualstudio.com/):** Microsoft Visual Studio Code is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
   - **[Intellij IDEA](https://www.jetbrains.com/idea/):** IntelliJ IDEA is an integrated development environment (IDE) written in Java for developing computer software written in Java, Kotlin, Groovy, and other JAR based languages.
@@ -21,4 +21,4 @@ Come and **contribute our large projects**!
 - Building more amazing projects for open source community!
 
 #### Navigate Links
-- ** TODO **
+  - TODO
