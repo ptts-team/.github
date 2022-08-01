@@ -6,7 +6,8 @@ Yes, we are. We're keeping our organization **open-source project for everyone.*
 - **Programming Languages:** These are the full often list of our open-source project are writren.
   - **[Kotlin](https://kotlinlang.org):** Almost this organization written in kotlin.
   - **[C++](https://microsoft.com):** We are building software for everyone use in your own platform.
-  - **[JavaScript](https://javascript.com/):** As we making scripts and softwa
+  - **[JavaScript](https://javascript.com/):** As we making scripts and software for PTTS.
+  
  - **Programs and other softwares:** These are full list of all software worldwide.
   - **[protanki-server](https://github.com/Assasans/protanki-server):** A server software for ProTanki-Online in kotlin.
   - **[Visual Studio Code](https://code.visualstudio.com/):** Microsoft Visual Studio Code is an integrated development environment from Microsoft. It is used to develop computer programs, as well as websites, web apps, web services and mobile apps.
